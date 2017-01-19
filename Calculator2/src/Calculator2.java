@@ -5,6 +5,7 @@
 
 // A add
 
+// B 2 add
 public class Calculator2 {
 
 }
