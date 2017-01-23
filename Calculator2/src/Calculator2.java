@@ -12,6 +12,7 @@
 
 // add 2017/01/23
 // add 2017/01/23 -1
+// add 01/23 - ø¿¥√ 10Ω√¡ﬂ..
 
 public class Calculator2 {
 
