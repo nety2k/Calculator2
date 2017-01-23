@@ -10,6 +10,8 @@
 
 // A 2 add
 
+// add 2017/01/23
+
 public class Calculator2 {
 
 }
