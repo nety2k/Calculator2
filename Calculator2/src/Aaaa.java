@@ -1,4 +1,0 @@
-//kkaf
-public class Aaaa {
-
-}
