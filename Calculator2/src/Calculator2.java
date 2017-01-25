@@ -15,5 +15,5 @@
 // add 01/23 - ø¿¥√ 10Ω√¡ﬂ..
 // 01/23 - 4
 public class Calculator2 {
-fjdklfjdlafjdlfjdalfjdlka
+
 }
